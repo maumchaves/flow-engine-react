@@ -1,0 +1,29 @@
+.container {
+  max-width: 540px;
+  margin: 3rem auto;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 3rem;
+}
+
+.card-title {
+  margin-bottom: 0;
+}
+
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  &.collapsed {
+    border-bottom: none!important;
+  }
+}
+
+.badge-pill {
+  margin-left: 0.3rem;
+}
+
+pre {
+  margin-bottom: 0;
+}

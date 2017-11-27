@@ -1,0 +1,9 @@
+[
+  { "id": 0, "body": "return obj.prop0;", "success": 1, "fail": 4 },
+  { "id": 1, "body": "return obj.prop1;", "success": 2, "fail": 5 },
+  { "id": 2, "body": "return obj.prop2;", "success": 3, "fail": 6 },
+  { "id": 3, "body": "return obj.prop3;", "success": null, "fail": null },
+  { "id": 4, "body": "return obj.prop4;", "success": 5, "fail": 2 },
+  { "id": 5, "body": "return obj.prop5;", "success": 6, "fail": 3 },
+  { "id": 6, "body": "return obj.prop6;", "success": null, "fail": null }
+]
